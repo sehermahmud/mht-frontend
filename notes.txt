@@ -1,0 +1,7 @@
+* Start date and End date conflict while creating Events
+
+* Submit without updating is problem. permission:Access_all_Events is causing the problem
+
+* After click on the table row in Data table in AllEvents and allUsers sometimes
+
+* After deleting an Event, the sideMenue bar does not work

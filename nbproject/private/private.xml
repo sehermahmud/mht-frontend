@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/Ampps/www/ierp/app/Modules/User/Models/PermissionRole.php</file>
+            <file>file:/F:/Ampps/www/ierp/app/Modules/User/Controllers/UserSettingsController.php</file>
+            <file>file:/F:/Ampps/www/ierp/app/Modules/User/Views/edit_users.blade.php</file>
+            <file>file:/F:/Ampps/www/ierp/app/Http/Requests/UserRequest.php</file>
+            <file>file:/F:/Ampps/www/ierp/app/Modules/User/routes.php</file>
+            <file>file:/F:/Ampps/www/ierp/app/Modules/User/Views/roles.blade.php</file>
+            <file>file:/F:/Ampps/www/ierp/app/Modules/User/Controllers/IndexController.php</file>
+            <file>file:/F:/Ampps/www/ierp/resources/views/master.blade.php</file>
+            <file>file:/F:/Ampps/www/ierp/app/Modules/User/Models/Permission.php</file>
+        </group>
+    </open-files>
+</project-private>
